@@ -23,3 +23,6 @@ Classic algorithms and data structures implemented in Python.
 ```bash
 python -m unittest test_linked_list -v
 ```
+
+---
+> **Note:** This repository was originally created as `5960` and renamed to `Algorithms` on May 12, 2026.
